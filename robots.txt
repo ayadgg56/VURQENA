@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phoenix1.gt.tc/sitemap.xml
